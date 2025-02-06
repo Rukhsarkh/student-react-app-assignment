@@ -1,6 +1,6 @@
 # Student Management System
 
-This project is a React-based application for managing student information. It allows users to add, edit, and delete student records, as well as view a list of all students.
+This project is a React-based application for managing student information. It allows users to add, edit, and delete student records, as well as view a list of all students. I have kept ui minimal and focussed on functionality part
 
 ## Features
 
@@ -35,21 +35,25 @@ This project is a React-based application for managing student information. It a
 
 ![Login Page](public/assets/login.png)
 
+### Register
+
+![Register](public/assets/register.png)
+
 ### Home Page
 
 ![Home Page](public/assets/home.png)
 
 ### Add Student
 
-![Add Student](public/assets/add-student.png)
+![Add Student](public/assets/StudentAddModal.png)
 
 ### Edit Student
 
-![Edit Student](public/assets/edit-student.png)
+![Edit Student](public/assets/StudentEditModal.png)
 
 ### Student List
 
-![Student List](public/assets/student-list.png)
+![Student List](public/assets/StudentViewModal.png)
 
 ## Technologies Used
 

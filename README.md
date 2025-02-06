@@ -19,7 +19,7 @@ This project is a React-based application for managing student information. It a
    ```
 2. Navigate to the project directory:
    ```bash
-   cd student-management
+   cd student-react-app-assignment
    ```
 3. Install the dependencies:
    ```bash

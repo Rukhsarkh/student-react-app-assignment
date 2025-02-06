@@ -9,6 +9,7 @@ This project is a React-based application for managing student information. It a
 - Delete student records
 - View a list of all students
 - firebase authentiation ( login, logout, sign-up functionality)
+- form validations
 
 ## Installation
 
@@ -59,9 +60,9 @@ This project is a React-based application for managing student information. It a
 
 - React
 - JavaScript
-- CSS
 - Firebase
-- HTML
 - Node.js
-- Webpack
-- Babel
+- Vite
+- Material ui
+- yup
+- react hook form

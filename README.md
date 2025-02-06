@@ -52,7 +52,7 @@ This project is a React-based application for managing student information. It a
 
 ![Edit Student](public/assets/StudentEditModal.png)
 
-### Student List
+### Student View
 
 ![Student List](public/assets/StudentViewModal.png)
 
